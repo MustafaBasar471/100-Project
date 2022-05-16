@@ -25,11 +25,6 @@ while True:
         print("Goodbye")
         break
 
-
-
-
-# My Code
-
 # def encrypt(txt_text, shift_value):
 #     cipher_text = ""
 #     for i in txt_text:
